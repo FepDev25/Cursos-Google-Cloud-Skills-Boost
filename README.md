@@ -93,7 +93,7 @@ Insignias Obtenidas: 2
 ## Contacto
 
 - **GitHub:** [FepDev25](https://github.com/FepDev25)
-- **LinkedIn:** [Tu perfil de LinkedIn aquí]
+- **LinkedIn:** [Felipe Peralta](https://www.linkedin.com/in/diego-felipe-peralta-peralta-89140428a/)
 
 ## Notas
 
