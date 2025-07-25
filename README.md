@@ -94,6 +94,8 @@ Insignias Obtenidas: 2
 
 - **GitHub:** [FepDev25](https://github.com/FepDev25)
 - **LinkedIn:** [Felipe Peralta](https://www.linkedin.com/in/diego-felipe-peralta-peralta-89140428a/)
+- **Perfil de Google Cloud Skills:** [Google Cloud Skills](https://www.cloudskillsboost.google/public_profiles/91d3bef8-47c0-4bd2-9bb4-104a9e4ae5d1)
+
 
 ## Notas
 
